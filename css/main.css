@@ -33,7 +33,7 @@ img {
 
 main {
   margin: 0 auto;
-  width: 320px;
+    padding: 1.5rem;
   background-color: #fff;
   border-radius: 8px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.3);
@@ -50,21 +50,36 @@ figcaption {
     bottom:.1rem;
     right 5rem;
     padding: 1.2rem;
-    background-color: rgba(0, 0, 0, .2);
+    background-color: rgba(0, 0, 0, .3);
     position: absolute;
     color: white;
     text-align: left;
     padding 15px 0 15px 15px;
-    font: italic 15px georgia, serif;
+    font: italic 15px Georgia, serif;
+}
+
+h1 {
+  margin: 0;
+  font-size: 1.125rem;
+  line-height: 1.3333;
+    font-family: normal Georgia, sans-serif;
+}
+
+h2 {
+    font-family: normal Georgia, sans-serif;
+    color: gray;
 }
 
 .box 1 {
+   
 }
 
 .box 2 {
+   
 }
 
 .box 3 {
+    
 }
     
     
