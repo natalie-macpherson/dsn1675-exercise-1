@@ -29,3 +29,43 @@ img {
   display: block;
   width: 100%;
 }
+
+
+main {
+  margin: 0 auto;
+  width: 320px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+}
+
+figure {
+    margin: 0;
+    
+    background-color: white;
+    position: relative;
+}
+
+figcaption {
+    bottom:.1rem;
+    right 5rem;
+    padding: 1.2rem;
+    background-color: rgba(0, 0, 0, .2);
+    position: absolute;
+    color: white;
+    text-align: left;
+    padding 15px 0 15px 15px;
+    font: italic 15px georgia, serif;
+}
+
+.box 1 {
+}
+
+.box 2 {
+}
+
+.box 3 {
+}
+    
+    
+    
